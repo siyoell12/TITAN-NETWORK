@@ -1,6 +1,10 @@
 [
   {
-    "Email": "your_email@example.com",
-    "RefreshToken": "your_refresh_token_here"
+    "Email": "email_anda@domain.com",
+    "RefreshToken": "refresh_token_andi"
+  },
+  {
+    "Email": "email_kedua@domain.com",
+    "RefreshToken": "refresh_token_kedua"
   }
 ]
