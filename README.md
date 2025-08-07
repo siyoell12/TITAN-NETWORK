@@ -85,6 +85,7 @@ Edit file `accounts.json` dengan informasi akun Anda:
 ```bash
 python titan.py
 ```
+
 ### Struktur Folder
 ```
 titan-network/
