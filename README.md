@@ -110,7 +110,15 @@ python titan.py
 ### Error: "No module found"
 - Jalankan `pip install -r requirements.txt` lagi
 - Pastikan Python path sudah benar
-
+- 
+### Struktur Folder
+```
+titan-network/
+├── titan.py          # Program utama
+├── accounts.json     # Konfigurasi akun
+├── requirements.txt  # Dependensi
+└── README.md        # Dokumentasi GitHub
+```
 ## 📊 Monitoring
 Program akan menampilkan:
 - Total nodes yang aktif
