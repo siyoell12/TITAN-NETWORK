@@ -1,0 +1,37 @@
+# QuantumFlow Node Automation System - Requirements
+# QuantumFlow Node Automation v1.0.0-RC1
+
+# Core dependencies
+aiohttp>=3.8.0
+aiohttp-socks>=0.7.1
+
+# Data handling
+python-dateutil>=2.8.2
+dataclasses>=0.6  # For Python < 3.7
+
+# JSON handling
+json5>=0.9.6
+
+# UUID generation
+uuid>=1.30
+
+# Timezone handling
+pytz>=2022.1
+
+# Logging
+colorama>=0.4.4
+
+# Path handling
+pathlib2>=2.3.6  # For Python < 3.4
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed:
+# uvloop>=0.16.0  # For better async performance
+# rich>=12.0.0    # For enhanced logging and display
+# click>=8.0.0    # For CLI enhancements
+
+# Development dependencies (uncomment for development)
+# pytest>=7.0.0
+# pytest-asyncio>=0.20.0
+# black>=22.0.0
+# flake8>=4.0.0
