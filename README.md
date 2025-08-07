@@ -92,6 +92,7 @@ titan-network/
 ├── accounts.json     # Konfigurasi akun
 ├── requirements.txt  # Dependensi
 └── README.md        # Dokumentasi GitHub
+
 ### Output yang Diharapkan
 ```
 ████████╗██╗████████╗ █████╗ ███╗   ██╗    ███╗   ██╗███████╗████████╗
