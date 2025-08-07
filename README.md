@@ -96,6 +96,13 @@ python titan.py
 2025-08-07 22:20:01 | INFO | WebSocket connected untuk email@domain.com
 2025-08-07 22:20:05 | INFO | Reward received: 10 tokens
 ```
+### Struktur Folder
+```
+titan-network/
+├── titan.py          # Program utama
+├── accounts.json     # Konfigurasi akun
+├── requirements.txt  # Dependensi
+└── README.md        # Dokumentasi GitHub
 
 ## 🔧 Troubleshooting
 
@@ -118,18 +125,13 @@ Program akan menampilkan:
 - Status koneksi real-time
 - Error log jika ada
 
-## 🔄 Update
-Untuk update terbaru:
-```bash
-git pull origin main
-```
+## Buy Me a Coffee
 
-## 📞 Kontak
-- GitHub Issues: [Buat issue baru](https://github.com/username/titan-network/issues)
-- Email: support@titan-network.com
+- **EVM:** 0x905d0505Ec007C9aDb5CF005535bfcC5E43c0B66
+- **TON:** UQCFO7vVP0N8_K4JUCfqlK6tsofOF4KEhpahEEdXBMQ-MVQL
+- **SOL:** BmqfjRHAKXUSKATuhbjPZfcNciN3J2DA1tqMgw9aGMdj
 
-## ⚠️ Disclaimer
-Gunakan dengan bijak dan sesuai dengan terms of service platform target. Kami tidak bertanggung jawab atas penggunaan yang melanggar ketentuan platform.
+Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
+If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
 
----
-**Titan Network - Your Gateway to Automated Airdrop Success!**
+**deasaputra**
