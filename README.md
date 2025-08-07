@@ -30,25 +30,10 @@ Titan Network adalah bot otomasi terbaru untuk mengikuti berbagai airdrop secara
 
 3. Setup konfigurasi:
    ```bash
-   # Edit file accounts.json dengan informasi akun Anda
    nano accounts.json
    ```
 
 ## ⚙️ Konfigurasi
-
-### File accounts.json
-```json
-[
-  {
-    "Email": "email_anda@domain.com",
-    "RefreshToken": "refresh_token_andi"
-  },
-  {
-    "Email": "email_kedua@domain.com",
-    "RefreshToken": "refresh_token_kedua"
-  }
-]
-```
 
 ### File proxies.txt (Opsional)
 ```
