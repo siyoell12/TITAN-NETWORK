@@ -19,7 +19,7 @@ Titan Network adalah bot otomasi terbaru untuk mengikuti berbagai airdrop secara
 ### Langkah Instalasi
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/titan-network.git
+   git clone https://github.com/siyoell12/titan-network.git
    cd titan-network
    ```
 
