@@ -95,7 +95,7 @@ python titan.py
 ### Error: "No module found"
 - Jalankan `pip install -r requirements.txt` lagi
 - Pastikan Python path sudah benar
-- 
+ 
 ### Struktur Folder
 ```
 titan-network/
