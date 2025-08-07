@@ -85,7 +85,13 @@ Edit file `accounts.json` dengan informasi akun Anda:
 ```bash
 python titan.py
 ```
-
+### Struktur Folder
+```
+titan-network/
+├── titan.py          # Program utama
+├── accounts.json     # Konfigurasi akun
+├── requirements.txt  # Dependensi
+└── README.md        # Dokumentasi GitHub
 ### Output yang Diharapkan
 ```
 ████████╗██╗████████╗ █████╗ ███╗   ██╗    ███╗   ██╗███████╗████████╗
@@ -96,13 +102,6 @@ python titan.py
 2025-08-07 22:20:01 | INFO | WebSocket connected untuk email@domain.com
 2025-08-07 22:20:05 | INFO | Reward received: 10 tokens
 ```
-### Struktur Folder
-```
-titan-network/
-├── titan.py          # Program utama
-├── accounts.json     # Konfigurasi akun
-├── requirements.txt  # Dependensi
-└── README.md        # Dokumentasi GitHub
 
 ## 🔧 Troubleshooting
 
