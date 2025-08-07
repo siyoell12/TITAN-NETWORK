@@ -1,4 +1,4 @@
-# Titan Network - Bot Otomasi Airdrop
+# Titan Network Bot 
 
 ## 📋 Deskripsi
 Titan Network adalah bot otomasi terbaru untuk mengikuti berbagai airdrop secara otomatis. Dirancang untuk memaksimalkan partisipasi dalam program airdrop dengan fitur multi-akun, proxy rotation, dan monitoring real-time.
@@ -126,18 +126,21 @@ Program akan menampilkan:
 - Status koneksi real-time
 - Error log jika ada
 
-## 🔄 Update
-Untuk update terbaru:
-```bash
-git pull origin main
-```
+🌐 Komunitas & Sosial Media
+Ingin berdiskusi, bertanya, atau berbagi ide? Bergabunglah dengan komunitas kami!
 
-## 📞 Kontak
-- GitHub Issues: [Buat issue baru](https://github.com/username/titan-network/issues)
-- Email: support@titan-network.com
+💬 Telegram Group: [t.me/ytshortuploader](https://t.me/independendropers)
 
-## ⚠️ Disclaimer
-Gunakan dengan bijak dan sesuai dengan terms of service platform target. Kami tidak bertanggung jawab atas penggunaan yang melanggar ketentuan platform.
+🐦 Twitter/X: [twitter.com/ytshortbot](https://x.com/Deasaputra_12)
 
----
-**Titan Network - Your Gateway to Automated Airdrop Success!**
+🎮 Discord Server: [discord.gg/ytshortuploader](https://discord.gg/Tuy2bR6CkU)
+## Buy Me a Coffee
+
+- **EVM:** 0x905d0505Ec007C9aDb5CF005535bfcC5E43c0B66
+- **TON:** UQCFO7vVP0N8_K4JUCfqlK6tsofOF4KEhpahEEdXBMQ-MVQL
+- **SOL:** BmqfjRHAKXUSKATuhbjPZfcNciN3J2DA1tqMgw9aGMdj
+
+Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
+If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
+
+**deasaputra**
